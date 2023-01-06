@@ -1,4 +1,4 @@
-# This entrypoint file to be used in development. Start by reading README.md
+# This main function is for compiling both function of what to test and with which application for compatibility.
 import mean_var_std
 from unittest import main
 
