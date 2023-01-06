@@ -1,3 +1,4 @@
+# This are the test cases for the application
 import unittest
 import mean_var_std
 
